@@ -10,7 +10,7 @@ Telegram Bot to Bulk Downloading list of urls and Upload to Telegram.
 - send txt file (links), separated by new line.
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/beastz007/Bulk-link-To-File-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/falanadikhana1/Bulk-link-To-File-Bot)
 
 
 
