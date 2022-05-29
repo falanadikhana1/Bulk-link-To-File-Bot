@@ -7,10 +7,10 @@ from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, CallbackQ
 from pyrogram.errors import BadRequest
 
 # Configs
-API_HASH = ("2af46b76e38461db8b0b078dfa79c2a8") # Api hash
-APP_ID = int("2164808") # Api id/App id
-BOT_TOKEN = ("5275972036:AAEbquGK5MnNwjb0SKclArG9EdP0w3usTMY") # Bot token
-OWNER_ID = ("5284073935") # Your telegram id
+API_HASH = ("d4cee9b844c63eb5b1bcc8e3426beb40") # Api hash
+APP_ID = int("14852801") # Api id/App id
+BOT_TOKEN = ("5363284163:AAFD1sXK-nUz51bI_2NnhcERXrho4PA8ezw") # Bot token
+OWNER_ID = ("1832139347") # Your telegram id
 AS_ZIP = bool("AS_ZIP") # Upload method. If True: will Zip all your files and send as zipfile | If False: will send file one by one
 BUTTONS = bool("BUTTONS") # Upload mode. If True: will send buttons (Zip or One by One) instead of AZ_ZIP | If False: will do as you've fill on AZ_ZIP
 
